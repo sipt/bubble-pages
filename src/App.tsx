@@ -1,5 +1,5 @@
 import "./App.css";
-import screenShort from "./assets/Untitled.png";
+import screenShort from "./assets/SCR-20240204-kc0.png";
 import icon from "./assets/icon-white.svg";
 import colorIcon from "./assets/icon-color.svg";
 import twitter from "./assets/Twitter.svg";
