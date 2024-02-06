@@ -24,8 +24,8 @@ function App() {
           </a>
         </div>
       </div>
-      <div className="w-full flex-grow flex flex-col mb-10">
-        <div className=" max-w-full flex md:flex-row flex-col justify-start md:justify-between md:mx-[100px]">
+      <div className="w-full flex-grow flex flex-col mb-10  items-center justify-center">
+        <div className=" max-w-[1250px] flex md:flex-row flex-col justify-start md:justify-between md:mx-[100px]">
           <div className="flex flex-col justify-center items-center md:items-start  my-[64px] md:my-0 gap-[16px]">
             <div className="mx-5 max-w-[500px] flex flex-col gap-[16px] items-center md:items-start">
               <img src={colorIcon} className="h-[64px] w-[64px]" />
