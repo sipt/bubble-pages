@@ -7,6 +7,20 @@
     <title>ChatHarvest</title>
   </head>
   <body>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-5E9RGGZ9KD"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-5E9RGGZ9KD");
+    </script>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
