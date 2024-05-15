@@ -44,20 +44,20 @@ function App() {
             <img src={apple} />
             <span className="font-bold">macOS</span>
             <a
-              href="https://apps.sipt.top/ChatHarvest-1.0.0-amd64.dmg"
+              href="https://apps.sipt.top/ChatHarvest-1.1.0-amd64.dmg"
               className="bg-black/30 hover:bg-black/20 px-3 py-2 rounded-lg cursor-pointer"
             >
               Intel
             </a>
             <a
-              href="https://apps.sipt.top/ChatHarvest-1.0.0-amd64.dmg"
+              href="https://apps.sipt.top/ChatHarvest-1.1.0-arm64.dmg"
               className="bg-black/30 hover:bg-black/20 px-3 py-2 rounded-lg cursor-pointer"
             >
               Apple silicon
             </a>
           </div>
           <a
-            href="https://apps.sipt.top/ChatHarvest-1.0.0%20Setup.exe"
+            href="https://apps.sipt.top/ChatHarvest-1.1.0%20Setup.exe"
             className="rounded-full bg-theme px-5 py-4 flex flex-row items-center gap-2 w-fit"
           >
             <img src={windows} />
